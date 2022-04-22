@@ -10,3 +10,4 @@ If you enter > 128 this will not generate a password. The message will give an e
 Once you enter the number of characters between 8-128 then it will prompt you how to generate the password.
 It can be all upper, lower, special characters or number if you chose the options. This solution will only happen if you cancel the other options.
 It is you choice, enjoy generating the password. Here it goes
+https://tmlott.github.io/password-generator/.
